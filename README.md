@@ -14,4 +14,7 @@ Membuat Controller API untuk Kategori dan Buku
 file KategoriController.php
 ![image](https://github.com/user-attachments/assets/e96c3d8c-3db7-4818-a9f8-00e0461ee59b)
 
+![Screenshot 2024-10-21 085810](https://github.com/user-attachments/assets/d0d3cc46-3a2d-4583-943c-d99e64a31f6f)
+
+![Screenshot 2024-10-21 100725](https://github.com/user-attachments/assets/c6346446-9128-40af-b134-ddfeda7f585d)
 
